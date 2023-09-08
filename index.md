@@ -26,7 +26,9 @@ var myVar = "Hello, world!";
 
 There are lots of Headers.
 
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
