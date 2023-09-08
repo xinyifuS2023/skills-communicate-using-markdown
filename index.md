@@ -20,7 +20,9 @@
 
 
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
 There are lots of Headers.
 
